@@ -283,7 +283,3 @@ sequenceDiagram
 - **Video Consultations**: WebRTC or Zoom API for seamless remote telehealth appointments.
 
 ---
-
-<div align="center">
-  <p><i>Created by <b>urayushjain</b></i></p>
-</div>
